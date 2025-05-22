@@ -53,7 +53,7 @@ const USERNAME = "arsabolsky";
 const PASSWORD = "ThisIsAPassw0rd!";
 ```
 
-   * **Replace:** Change `"arsabolsky"` to your actual Referral Manager username (likely your Church Account username) and `"ThisIsAPassw0rd!"` to your actual password (HARD CODING CREDENTIALS IS A STUPID THING TO DO).  
+   * **Replace:** Change `"arsabolsky"` to your actual Referral Manager username (likely your Church Account username) and `"ThisIsAPassw0rd!"` to your actual password **(HARD CODING CREDENTIALS IS A STUPID THING TO DO)**.  
    * **Save:** Save the changes to the script in Tampermonkey (usually File \> Save or a Save button).  
 8. **Configuration (Referral Scraper Script):**  
    * **Deployment ID:** The `Referral Scraper-3-30-2025.user.js` script uses a Google Sheets CSV link to get a `deployment ID`. This ID is crucial for sending data to your Google Apps Script.  
